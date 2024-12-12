@@ -10,7 +10,7 @@ Estou sempre buscando aprender mais para enfrentar os desafios e contribuir posi
 <p align="left">
   <div> 
       <a href="https://instagram.com/euarthurmaia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href="https://instagram.com/euarthurmaia" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
+      <a href="https://x.com/euarthurmaia" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
       <a href = "mailto:arthurmaia.ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%35533?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/arthur-oliveira-maia-29470829a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       
