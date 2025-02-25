@@ -1,8 +1,7 @@
 # Bem-vindos!
 **`Desenvolvedor Full-stack`**
 
-Sou Arthur Oliveira Maia, um admirador da tecnologia de 21 anos de idade. Tenho uma paixão profunda pela inovação e acredito no poder da tecnologia para mudar o mundo. 
-Estou sempre buscando aprender mais para enfrentar os desafios e contribuir positivamente para um futuro impulsionado pela tecnologia.
+Sou Arthur Oliveira Maia, tenho 21 anos e sou formado em Análise e Desenvolvimento de Sistemas. Estou sempre buscando aprender mais para enfrentar os desafios e contribuir positivamente para um futuro impulsionado pela tecnologia.
 
   
   ##
