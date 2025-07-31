@@ -108,6 +108,14 @@ Sou Arthur Oliveira Maia, tenho 21 anos e sou formado em Análise e Desenvolvime
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Node" 
+    title="Node"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/nodejs/original.svg" 
+/>
 <br/>
 <br/>
 
