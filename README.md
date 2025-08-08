@@ -70,8 +70,8 @@ Sou Arthur Oliveira Maia, tenho 21 anos e sou formado em Análise e Desenvolvime
 />
 <img 
     align="left" 
-    alt="java" 
-    title="java"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
@@ -102,8 +102,8 @@ Sou Arthur Oliveira Maia, tenho 21 anos e sou formado em Análise e Desenvolvime
 />
 <img 
     align="left" 
-    alt="Flutter" 
-    title="Flutter"
+    alt="Dart" 
+    title="Dart"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
