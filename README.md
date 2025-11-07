@@ -1,7 +1,7 @@
 # Bem-vindos!
 **`Desenvolvedor Full-stack`**
 
-Sou Arthur Oliveira Maia, tenho 21 anos e sou formado em Análise e Desenvolvimento de Sistemas. Estou sempre buscando aprender mais para enfrentar os desafios e contribuir positivamente para um futuro impulsionado pela tecnologia.
+Sou Arthur Oliveira Maia, tenho 22 anos e sou formado em Análise e Desenvolvimento de Sistemas. Estou sempre buscando aprender mais para enfrentar os desafios e contribuir positivamente para um futuro impulsionado pela tecnologia.
 
   
   ##
